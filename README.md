@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Location-Tijuana%2C%20Mexico-0f766e?style=for-the-badge" alt="location">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=2800&pause=900&color=00E6C3&center=true&vCenter=true&width=1100&lines=Operational+Excellence+powered+by+Data+and+AI;Digital+transformation+for+manufacturing+operations;Analytics%2C+automation%2C+and+continuous+improvement" alt="typing intro" />
+</p>
+
 ## Why This Profile Exists
 I build digital systems that turn plant operations into measurable performance.
 My focus is to connect OPEX, data and automation so teams can decide faster, reduce risk, and scale with control.
