@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Victor%20Dector%20Ramirez&fontSize=44&fontAlignY=38&color=0:0f172a,40:0b3b5a,100:00b894&fontColor=ffffff&desc=Operational%20Excellence%20x%20Data%20Architecture%20x%20AI&descAlignY=58&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Victor%20Dector%20Ramirez&fontSize=44&fontAlignY=38&color=0:0f172a,40:0b3b5a,100:00b894&fontColor=ffffff&desc=Operational%20Excellence%20 | %20Data%20Architecture%20 | %20AI&descAlignY=58&descAlign=50" alt="header" />
 </p>
 
 <p align="center">
