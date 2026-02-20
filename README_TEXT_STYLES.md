@@ -4,6 +4,10 @@ Este archivo es una galeria de estilos para el texto animado del header (GitHub 
 
 Limitacion: en GitHub README no podemos usar JS/CSS propio; el movimiento normalmente viene de una imagen (GIF/APNG) o de un servicio que genera SVG como imagen. Aqui usamos `readme-typing-svg`.
 
+Nota sobre el preview:
+- Si los ejemplos estan en bloques de codigo, no se renderiza el efecto.
+- Algunos previews (IDE) bloquean imagenes remotas. En ese caso, abre el archivo en GitHub para ver el resultado.
+
 ## Quick Use
 
 1. Copia un snippet.
@@ -19,6 +23,11 @@ Recomendado (para que no se corte):
 
 ## A) Executive Slow (2-3 lineas)
 
+![Executive Slow](https://readme-typing-svg.herokuapp.com?font=Oxanium&size=34&duration=4200&pause=1300&color=F4F7FB&center=true&vCenter=true&width=1000&lines=Operational+Excellence+powered+by+Data+and+AI;Digital+transformation+for+manufacturing+operations;Analytics%2C+automation%2C+and+continuous+improvement)
+
+<details>
+<summary><b>Copy snippet</b></summary>
+
 ```html
 <p align="center">
   <img
@@ -29,7 +38,14 @@ Recomendado (para que no se corte):
 </p>
 ```
 
+</details>
+
 ## B) Fast Terminal (1 linea, feeling consola)
+
+![Fast Terminal](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=36&duration=1700&pause=900&color=7CFFCB&center=true&vCenter=true&width=1000&lines=OPEX+%7C+Data+Architecture+%7C+Industrial+AI)
+
+<details>
+<summary><b>Copy snippet</b></summary>
 
 ```html
 <p align="center">
@@ -41,7 +57,14 @@ Recomendado (para que no se corte):
 </p>
 ```
 
+</details>
+
 ## C) Industrial Gold (1 linea, mas sobrio)
+
+![Industrial Gold](https://readme-typing-svg.herokuapp.com?font=Rajdhani&size=46&duration=2400&pause=1100&color=D4AF37&center=true&vCenter=true&width=1000&height=90&lines=Industrial+AI+%C2%B7+Data-Driven+OPEX+%C2%B7+Execution+Governance)
+
+<details>
+<summary><b>Copy snippet</b></summary>
 
 ```html
 <p align="center">
@@ -53,7 +76,14 @@ Recomendado (para que no se corte):
 </p>
 ```
 
+</details>
+
 ## D) Tech Wide (Audiowide)
+
+![Tech Wide](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=38&duration=2600&pause=1000&color=F4F7FB&center=true&vCenter=true&width=1000&height=90&lines=From+shop+floor+signals+to+executive+decisions)
+
+<details>
+<summary><b>Copy snippet</b></summary>
 
 ```html
 <p align="center">
@@ -65,9 +95,16 @@ Recomendado (para que no se corte):
 </p>
 ```
 
+</details>
+
 ## E) Bold Headline (grande, 1 linea)
 
 Nota: sube `height` para evitar que se corte la parte inferior de letras como `g`, `y`, `p`.
+
+![Bold Headline](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=56&duration=1&pause=999999&color=F4F7FB&center=true&vCenter=true&width=900&height=100&lines=Let%27s+work+together)
+
+<details>
+<summary><b>Copy snippet</b></summary>
 
 ```html
 <p align="center">
@@ -79,7 +116,14 @@ Nota: sube `height` para evitar que se corte la parte inferior de letras como `g
 </p>
 ```
 
+</details>
+
 ## F) Minimal Clean (sin tanto "tech", muy compatible con GitHub)
+
+![Minimal Clean](https://readme-typing-svg.herokuapp.com?font=Inter&size=36&duration=2600&pause=1000&color=C9CED6&center=true&vCenter=true&width=1000&height=90&lines=Systems+that+scale.+Teams+that+adopt.)
+
+<details>
+<summary><b>Copy snippet</b></summary>
 
 ```html
 <p align="center">
@@ -91,7 +135,14 @@ Nota: sube `height` para evitar que se corte la parte inferior de letras como `g
 </p>
 ```
 
+</details>
+
 ## G) Ultra Compact (para no ocupar tanto alto)
+
+![Ultra Compact](https://readme-typing-svg.herokuapp.com?font=Oxanium&size=28&duration=2200&pause=900&color=C9CED6&center=true&vCenter=true&width=1000&height=70&lines=OPEX+%C2%B7+Analytics+%C2%B7+Automation)
+
+<details>
+<summary><b>Copy snippet</b></summary>
 
 ```html
 <p align="center">
@@ -102,6 +153,8 @@ Nota: sube `height` para evitar que se corte la parte inferior de letras como `g
   />
 </p>
 ```
+
+</details>
 
 ---
 
@@ -131,4 +184,3 @@ Estas opciones requieren imagen animada (GIF/APNG). GitHub las muestra bien, per
 <h2 align="center">Operational Excellence powered by Data and AI</h2>
 <p align="center"><img src="images/divider.gif" alt="divider" width="100%" /></p>
 ```
-
