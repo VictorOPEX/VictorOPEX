@@ -1,113 +1,189 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Victor%20Dector%20Ramirez&fontSize=44&fontAlignY=38&color=0:0f172a,40:0b3b5a,100:00b894&fontColor=ffffff&desc=Operational%20Excellence%20|%20Data%20Architecture%20|%20AI&descAlignY=58&descAlign=50" alt="header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oxanium&size=34&duration=2800&pause=900&color=F4F7FB&center=true&vCenter=true&width=1200&lines=Operational+Excellence+powered+by+Data+and+AI;Digital+transformation+for+manufacturing+operations;Analytics%2C+automation%2C+and+continuous+improvement" alt="typing line" />
+  
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victorddectorr"><img src="https://img.shields.io/badge/LinkedIn-victorddectorr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-  <a href="mailto:victor.dector@outlook.com"><img src="https://img.shields.io/badge/Outlook-victor.dector%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="email"></a>
-  <img src="https://img.shields.io/badge/Location-Tijuana%2C%20Mexico-0f766e?style=for-the-badge" alt="location">
+  <img src="https://img.shields.io/badge/Power_BI-1B2430?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_Apps-1B2430?style=for-the-badge&logo=microsoftpowerapps&logoColor=742774" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Domo-1B2430?style=for-the-badge&logo=domo&logoColor=5AA9E6" alt="Domo" />
+  <img src="https://img.shields.io/badge/Oracle-1B2430?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Monday.com-1B2430?style=for-the-badge&logo=mondaydotcom&logoColor=635BFF" alt="Monday.com" />
+  <img src="https://img.shields.io/badge/Microsoft_365-1B2430?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01" alt="Microsoft 365" />
 </p>
+    </td>
+  </tr>
+</table>
+<table><tr><td height="28"></td></tr></table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=2800&pause=900&color=00E6C3&center=true&vCenter=true&width=1100&lines=Operational+Excellence+powered+by+Data+and+AI;Digital+transformation+for+manufacturing+operations;Analytics%2C+automation%2C+and+continuous+improvement" alt="typing intro" />
-</p>
+## Experience
 
-## Why This Profile Exists
-I build digital systems that turn plant operations into measurable performance.
-My focus is to connect OPEX, data and automation so teams can decide faster, reduce risk, and scale with control.
+<table width="100%">
+  <tr>
+    <td height="360" valign="middle" align="center">
+<p align="center"><b>Here is a quick summary of my most relevant experiences:</b></p>
 
-## Impact Snapshot
-| Metric | Result | Context |
-|---|---:|---|
-| Maintenance admin time | **-40%+** | Digital workflow redesign and KPI visibility |
-| Inventory discrepancy | **-25%+** | 5S + visual management + data alignment |
-| DHRS close/balance cycle | **30 min -> 5 min** | Data process optimization in production |
-| Career in medical manufacturing | **9+ years** | Regulated environments with traceability focus |
+<table>
+  <tr>
+    <td width="22%"><b>Merit Medical</b></td>
+    <td width="53%"><b>OPEX Technician II</b><br/>- Cross-functional digitalization across nursing, EHS, planning, production and CI.<br/>- Business apps + dashboards for faster, lower-risk decisions.</td>
+    <td width="25%" align="right">Dec 2021 - Mar 2025</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="22%"><b>Merit Medical</b></td>
+    <td width="53%"><b>Maintenance Technician II</b><br/>- Preventive maintenance workflow migrated from paper to digital traceability.<br/>- KPI visibility and administrative cycle reduction.</td>
+    <td width="25%" align="right">Nov 2020 - Dec 2021</td>
+  </tr>
+</table>
 
-## What I Solve
-- Operational blind spots between production, maintenance and planning.
-- Slow and manual flows that create errors, rework and low visibility.
-- Data fragmentation across Oracle, floor operations and reporting tools.
-- Lack of decision-ready dashboards for supervisors and managers.
+<table>
+  <tr>
+    <td width="22%"><b>Merit Medical</b></td>
+    <td width="53%"><b>Data Entry + Documentation Specialist</b><br/>- Oracle documentation, traceability and production support optimization.</td>
+    <td width="25%" align="right">Jun 2020 - Nov 2020</td>
+  </tr>
+</table>
+    </td>
+  </tr>
+</table>
+<table><tr><td height="28"></td></tr></table>
 
-## Transformation Cases
-### 1) Supply Chain Visibility
-Built a Domo dashboard integrating multiple data sources (in-transit orders, inventory abroad, moving orders).
-Result: better logistics coordination and fewer material shipping errors.
+## Featured Projects
 
-### 2) Maintenance Digitalization
-Moved preventive maintenance flow from paper to fully digital traceable records.
-Result: faster execution, cleaner audits, and stronger operational reliability.
+<table width="100%">
+  <tr>
+    <td height="360" valign="middle" align="center">
+      <table width="100%">
+        <tr>
+          <td width="50%" valign="middle" align="center">
+            <img width="520" height="210" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorOPEX&bg_color=0f1115&color=c9ced6&line=d4af37&point=c9ced6&area=true&hide_border=true" alt="supply chain visibility visual" />
+          </td>
+          <td width="50%" valign="middle">
+            <h3>Supply Chain Visibility System</h3>
+            <p>Consolidated multi-source operational data in Domo (in-transit orders, remote inventory, moving orders) for better planning confidence and lower shipping error risk.</p>
+            <p><b>Stack:</b> Domo, Oracle, Data Modeling</p>
+          </td>
+        </tr>
+      </table>
+      <hr/>
+      <table width="100%">
+        <tr>
+          <td width="50%" valign="middle">
+            <h3>Maintenance Digital Control</h3>
+            <p>Converted preventive maintenance from paper to digital traceable workflows, increasing audit readiness and reducing administrative overhead.</p>
+            <p><b>Stack:</b> Power Apps, Power BI, Microsoft 365</p>
+          </td>
+          <td width="50%" valign="middle" align="center">
+            <img width="520" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOPEX&layout=compact&theme=transparent&hide_border=true&title_color=C9CED6&text_color=C9CED6" alt="maintenance project visual" />
+          </td>
+        </tr>
+      </table>
+      <hr/>
+      <table width="100%">
+        <tr>
+          <td width="50%" valign="middle" align="center">
+            <img width="520" height="210" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOPEX&theme=dark&background=0F1115&ring=D4AF37&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=8A93A2&stroke=2A2F3A&fire=D4AF37&hide_border=true" alt="production intelligence visual" />
+          </td>
+          <td width="50%" valign="middle">
+            <h3>Production Intelligence Acceleration</h3>
+            <p>Redesigned DHRS closure and balancing process and enabled team adoption, reducing cycle time from 30 minutes to 5 minutes.</p>
+            <p><b>Stack:</b> Oracle, Power BI, Process Engineering</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table><tr><td height="28"></td></tr></table>
 
-### 3) Production Data Acceleration
-Optimized DHRS closure and balancing process and coached additional data clerks.
-Result: cycle time reduced from 30 to 5 minutes and higher team throughput.
+## Services
 
-## Skills by Capability
-`Data + Analytics`
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Domo](https://img.shields.io/badge/Domo-002D72?style=for-the-badge&logo=domo&logoColor=white)
-
-`Automation + Platforms`
-
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Monday.com](https://img.shields.io/badge/Monday.com-635BFF?style=for-the-badge&logo=mondaydotcom&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
-`Engineering`
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
-## Operating Model
-| Pillar | How I Work |
-|---|---|
-| OPEX | Lean thinking, VSM, visual management, standard work |
-| Data | Data quality, process visibility, decision support dashboards |
-| Governance | Traceability, compliance mindset, auditable workflows |
-| AI Future | Transitioning from analytics to AI-enabled decision systems |
-
-## Career Timeline
-| Role | Company | Period |
-|---|---|---|
-| OPEX Technician II | Merit Medical Tijuana | Dec 2021 - Mar 2025 |
-| Maintenance Technician II | Merit Medical Tijuana | Nov 2020 - Dec 2021 |
-| Data Entry Clerk + Documentation Specialist | Merit Medical Tijuana | Jun 2020 - Nov 2020 |
-| Data Entry Clerk + Assistant Leader | Merit Medical Tijuana | Jun 2018 - Jun 2020 |
-| Production Operator + Data Entry Clerk | Merit Medical Tijuana | Jun 2015 - Jun 2018 |
+<table width="100%">
+  <tr>
+    <td height="360" valign="middle" align="center">
+<table>
+  <tr>
+    <td width="33%" valign="middle">
+      <h3>Operational Diagnostics</h3>
+      <p>Detection of bottlenecks, failure points, and blind spots in production and support flows.</p>
+    </td>
+    <td width="33%" valign="middle">
+      <h3>Data + Automation Design</h3>
+      <p>Dashboarding, apps, and governance-ready workflows that support faster, lower-risk decisions.</p>
+    </td>
+    <td width="33%" valign="middle">
+      <h3>Execution Governance</h3>
+      <p>Implementation standards that sustain performance, compliance, and measurable outcomes.</p>
+    </td>
+  </tr>
+</table>
+    </td>
+  </tr>
+</table>
+<table><tr><td height="28"></td></tr></table>
 
 ## Education and Credentials
-- Artificial Intelligence Engineering - Hybridge Education (Mar 2025 - Apr 2028)
-- Big Data, AI and Machine Learning - KeepCoding (May 2024 - Apr 2025)
-- IBM Z Day 2025 - AI and Data
-- Introduction to AI
-- Master's in Artificial Intelligence
-- Master's in Data Science and Artificial Intelligence
 
-## GitHub Performance
+<table width="100%">
+  <tr>
+    <td height="360" valign="middle" align="center">
+      <table width="100%">
+        <tr>
+          <th align="left">Program / Credential</th>
+          <th align="left">Institution</th>
+          <th align="left">Period</th>
+          <th align="left">Focus</th>
+        </tr>
+        <tr>
+          <td>Artificial Intelligence Engineering</td>
+          <td>Hybridge Education</td>
+          <td>Mar 2025 - Apr 2028</td>
+          <td>AI systems, model foundations, applied engineering</td>
+        </tr>
+        <tr>
+          <td>Big Data, AI and Machine Learning</td>
+          <td>KeepCoding</td>
+          <td>May 2024 - Apr 2025</td>
+          <td>Data pipelines, ML workflows, analytics strategy</td>
+        </tr>
+        <tr>
+          <td>IBM Z Day 2025 - AI and Data</td>
+          <td>IBM</td>
+          <td>2025</td>
+          <td>Enterprise AI and data ecosystems</td>
+        </tr>
+        <tr>
+          <td>Introduction to AI</td>
+          <td>Professional Certificate</td>
+          <td>Completed</td>
+          <td>Core AI concepts and practical applications</td>
+        </tr>
+        <tr>
+          <td>Master's in Artificial Intelligence</td>
+          <td>Advanced Program</td>
+          <td>Completed</td>
+          <td>Advanced AI methodology and deployment</td>
+        </tr>
+        <tr>
+          <td>Master's in Data Science and Artificial Intelligence</td>
+          <td>Advanced Program</td>
+          <td>Completed</td>
+          <td>Data science for decision systems</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table><tr><td height="28"></td></tr></table>
+
+## Contact
+
+- Email: `victor.dector@outlook.com`
+- LinkedIn: `https://www.linkedin.com/in/victorddectorr`
+- Location: `Tijuana, Baja California, Mexico`
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorOPEX&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOPEX&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorOPEX&theme=github-compact&hide_border=true" alt="activity graph" />
-</p>
-
-## Collaboration
-Open to roles and projects in:
-- Operational Excellence and process transformation
-- Data analytics for manufacturing and supply chain
-- AI-enabled operational decision systems
-- Digitalization roadmaps in regulated industries
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00b894,100:0f172a" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2C3340,100:111318" alt="footer" />
 </p>
