@@ -107,14 +107,48 @@ Implementation standards that sustain performance, compliance, and measurable ou
 
 <br/>
 
+## FAQ
+
+<details>
+  <summary><b>How do you approach operational transformation?</b></summary>
+  <br/>
+  I start by mapping the current process, identifying bottlenecks and risk points, and then implementing measurable improvements through data visibility, standard work, and automation.
+</details>
+
+<details>
+  <summary><b>What kind of projects do you execute?</b></summary>
+  <br/>
+  I focus on OPEX and digitalization projects: maintenance workflow traceability, KPI systems, inventory/production visibility, and process governance in regulated environments.
+</details>
+
+<details>
+  <summary><b>Which tools and technologies do you use most?</b></summary>
+  <br/>
+  Power BI, Power Apps, Domo, Oracle, Microsoft 365, and Python-based analytics/automation workflows.
+</details>
+
+<details>
+  <summary><b>How do you ensure measurable impact?</b></summary>
+  <br/>
+  Every initiative is tied to baseline KPIs and target outcomes such as cycle-time reduction, discrepancy reduction, audit readiness, and decision speed improvements.
+</details>
+
+<details>
+  <summary><b>Are you open to collaboration opportunities?</b></summary>
+  <br/>
+  Yes. I am open to roles and collaborations in Operational Excellence, Data/Analytics Engineering, and AI-driven process improvement.
+</details>
+
+<br/>
+
 ## GitHub Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorOPEX&bg_color=0f1115&color=c9ced6&line=d4af37&point=c9ced6&area=true&hide_border=true" alt="Victor Dector contribution graph" />
+  <img width="76%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorOPEX&bg_color=0f1115&color=c9ced6&line=d4af37&point=c9ced6&area=true&hide_border=true" alt="Victor Dector contribution graph" />
 </p>
 
 <p align="center">
-  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOPEX&theme=dark&background=0F1115&ring=D4AF37&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=8A93A2&stroke=2A2F3A&fire=D4AF37&hide_border=true" alt="Victor Dector streak stats" />
+  <img width="76%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOPEX&theme=dark&background=0F1115&ring=D4AF37&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=8A93A2&stroke=2A2F3A&fire=D4AF37&hide_border=true" alt="Victor Dector streak stats" />
 </p>
 
 <br/>
