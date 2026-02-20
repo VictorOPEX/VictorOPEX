@@ -39,19 +39,19 @@ Normal paragraph text.
 ## 4. Images (Local and Remote)
 
 ```md
-![Local Image](./assets/profile.png)
+![Local Image](./images/github-banner.gif)
 ![Remote Image](https://example.com/image.png)
 ```
 
 ```html
-<img src="./assets/profile.png" width="220" alt="profile" />
-<img src="https://example.com/banner.gif" width="100%" alt="banner" />
+<img src="images/github-banner.gif" width="100%" alt="banner" />
+<img src="images/icons-carousel.gif" alt="icons carousel" />
 ```
 
 ## 5. Clickable Image
 
 ```md
-[![Watch Demo](./assets/demo-thumb.png)](https://youtube.com/watch?v=xxxx)
+[![Watch Demo](images/latest-articles-featured.svg)](https://youtube.com/watch?v=xxxx)
 ```
 
 ## 6. Badges
@@ -99,7 +99,7 @@ type User = {
       <p>Text, bullets, links.</p>
     </td>
     <td width="45%">
-      <img src="./assets/example.png" alt="example visual" />
+      <img src="images/latest-articles-featured.svg" alt="example visual" />
     </td>
   </tr>
 </table>
@@ -202,7 +202,7 @@ type User = {
 <table width="100%">
   <tr>
     <td width="50%" valign="middle" align="center">
-      <img width="520" height="210" src="./assets/project-1.png" alt="project visual" />
+      <img width="520" height="210" src="images/latest-articles-featured.svg" alt="project visual" />
     </td>
     <td width="50%" valign="middle">
       <h3>Project Name</h3>
@@ -225,12 +225,14 @@ type User = {
 ## 19. Practical Asset Structure
 
 ```txt
-assets/
-  profile.png
-  project-1.png
-  project-2.png
-  badges/
-  icons/
+images/              # tracked (used by README.md)
+  github-banner.gif
+  icons-carousel.gif
+  divider.gif
+  archive/           # old variants (tracked)
+  drafts/            # local experiments (ignored)
+
+assets/              # local scratch (ignored)
 ```
 
 ## 20. Final Checklist Before Push
