@@ -164,13 +164,33 @@ Estas opciones requieren imagen animada (GIF/APNG). GitHub las muestra bien, per
 
 ### 1) Glow sweep (texto fijo con brillo que pasa)
 
+Preview (requiere `images/text-glow-sweep.gif`):
+
+<p align="center">
+  <img src="images/text-glow-sweep.gif" alt="glow sweep" width="100%" />
+</p>
+
+<details>
+<summary><b>Copy snippet</b></summary>
+
 ```html
 <p align="center">
   <img src="images/text-glow-sweep.gif" alt="glow sweep" width="100%" />
 </p>
 ```
 
+</details>
+
 ### 2) Ticker / marquee (texto desplazandose)
+
+Preview (requiere `images/text-ticker.gif`):
+
+<p align="center">
+  <img src="images/text-ticker.gif" alt="ticker" width="100%" />
+</p>
+
+<details>
+<summary><b>Copy snippet</b></summary>
 
 ```html
 <p align="center">
@@ -178,9 +198,21 @@ Estas opciones requieren imagen animada (GIF/APNG). GitHub las muestra bien, per
 </p>
 ```
 
+</details>
+
 ### 3) Static + Divider (sin animacion, pero con impacto visual)
+
+Preview (usa `images/divider.gif` que ya existe en este repo):
+
+<h2 align="center">Operational Excellence powered by Data and AI</h2>
+<p align="center"><img src="images/divider.gif" alt="divider" width="100%" /></p>
+
+<details>
+<summary><b>Copy snippet</b></summary>
 
 ```html
 <h2 align="center">Operational Excellence powered by Data and AI</h2>
 <p align="center"><img src="images/divider.gif" alt="divider" width="100%" /></p>
 ```
+
+</details>
