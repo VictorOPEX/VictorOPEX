@@ -3,7 +3,6 @@
 </p>
 
 <br/>
-<br/>
 
 <p align="center">
   <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Sora&size=34&duration=2800&pause=900&color=F4F7FB&center=true&vCenter=true&width=1000&lines=Operational+Excellence+powered+by+Data+and+AI;Digital+transformation+for+manufacturing+operations;Analytics%2C+automation%2C+and+continuous+improvement" alt="typing line" />
