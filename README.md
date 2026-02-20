@@ -86,6 +86,7 @@
   <a id="jump-projects"></a>
 
 > [!IMPORTANT]
+> 
 > **DATA / VISIBILITY**  
 > **Supply Chain Visibility System**  
 > Consolidated multi-source operational data in Domo (in-transit orders, remote inventory, moving orders) for better planning confidence and lower shipping error risk.  
@@ -93,6 +94,7 @@
 > Link: _TBD_
 
 > [!TIP]
+> 
 > **LOW-CODE / GOVERNANCE**  
 > **Maintenance Digital Control**  
 > Converted preventive maintenance from paper to digital traceable workflows, increasing audit readiness and reducing administrative overhead.  
@@ -100,6 +102,7 @@
 > Link: _TBD_
 
 > [!WARNING]
+> 
 > **OPEX / EXECUTION**  
 > **Production Intelligence Acceleration**  
 > Redesigned DHRS closure and balancing process and enabled team adoption, reducing cycle time from 30 minutes to 5 minutes.  
@@ -118,18 +121,21 @@
   <a id="jump-articles"></a>
 
 > [!TIP]
+> 
 > **OPEX**  
 > **Operational Intelligence in Manufacturing**  
 > A practical framework to convert operational friction into scalable, governed systems.  
 > Link: _TBD_
 
 > [!NOTE]
+> 
 > **DATA**  
 > **KPI systems that teams actually use**  
 > Dashboards, governance, and adoption without the noise.  
 > Link: _TBD_
 
 > [!IMPORTANT]
+> 
 > **AI / CV**  
 > **Building AI with operational constraints**  
 > Where compliance, data quality, and execution matter.  
