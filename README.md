@@ -1,17 +1,8 @@
 <p align="center">
   <img width="100%" src="images/github%20-%20baner.svg" alt="GitHub banner" />
 </p>
-
 <p align="center">
   <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Oxanium&size=34&duration=2800&pause=900&color=F4F7FB&center=true&vCenter=true&width=1000&lines=Operational+Excellence+powered+by+Data+and+AI;Digital+transformation+for+manufacturing+operations;Analytics%2C+automation%2C+and+continuous+improvement" alt="typing line" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-1B2430?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Power_Apps-1B2430?style=for-the-badge&logo=microsoftpowerapps&logoColor=742774" alt="Power Apps" />
-  <img src="https://img.shields.io/badge/Domo-1B2430?style=for-the-badge&logo=domo&logoColor=5AA9E6" alt="Domo" />
-  <img src="https://img.shields.io/badge/Oracle-1B2430?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Microsoft_365-1B2430?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01" alt="Microsoft 365" />
 </p>
 
 <p align="center">
@@ -19,30 +10,33 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Skill icons" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,anaconda,python,docker,kubernetes,terraform,linux,bash,powershell&theme=dark" alt="Cloud and tooling" />
-</p>
-
-<p align="center"><b>Data + Platform</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,kafka,graphql,openshift,grafana&theme=dark" alt="Data and platform" />
-</p>
-
-<p align="center"><b>ML + Computer Vision</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,r&theme=dark" alt="ML and CV" />
-</p>
-
-<p align="center"><b>Build + Notes</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,pycharm,notion,obsidian,replit,raspberrypi&theme=dark" alt="Build and notes" />
+  <a href="STACK_ICONS.md"><b>Full icon stack</b></a>
 </p>
 
 <br/>
 
+<!-- SEC: NAVIGATION -->
+<details>
+  <summary><b>TOC</b></summary>
+  <br/>
+  <p>
+    <a href="#sec-skills">Skills</a> ·
+    <a href="#sec-experience">Experience</a> ·
+    <a href="#sec-projects">Featured Projects</a> ·
+    <a href="#sec-articles">Latest Articles</a> ·
+    <a href="#sec-services">Services</a> ·
+    <a href="#sec-education">Education</a> ·
+    <a href="#sec-faq">FAQ</a> ·
+    <a href="#sec-hub">Collaboration Hub</a> ·
+    <a href="#sec-cta">CTA</a> ·
+    <a href="#sec-activity">GitHub Activity</a>
+  </p>
+</details>
+
+<br/>
+
+<!-- SEC: SKILLS -->
+<a id="sec-skills"></a>
 ## Skills
 
 - Operational Excellence (OPEX) and continuous improvement (Lean, 5S, VSM, visual management)
@@ -51,69 +45,104 @@
 - Industry 4.0 and emerging tech (IoT, RPA, robotics, AI)
 - Data strategy, architecture, and governance (classification, management, decision systems)
 
+<!-- SEC: EXPERIENCE -->
+<a id="sec-experience"></a>
 ## Experience
 
-**Here is a quick summary of my most relevant experiences:**
+<details>
+  <summary><b>Show / hide</b></summary>
+  <br/>
+  <p><b>Here is a quick summary of my most relevant experiences:</b></p>
 
-### OPEX Technician II
-**Merit Medical** | Dec 2021 - Mar 2025
-- Cross-functional digitalization across nursing, EHS, planning, production and CI.
-- Business apps + dashboards for faster, lower-risk decisions.
+  <h3>OPEX Technician II</h3>
+  <p><b>Merit Medical</b> | Dec 2021 - Mar 2025</p>
+  <ul>
+    <li>Cross-functional digitalization across nursing, EHS, planning, production and CI.</li>
+    <li>Business apps + dashboards for faster, lower-risk decisions.</li>
+  </ul>
 
-### Maintenance Technician II
-**Merit Medical** | Nov 2020 - Dec 2021
-- Preventive maintenance workflow migrated from paper to digital traceability.
-- KPI visibility and administrative cycle reduction.
+  <h3>Maintenance Technician II</h3>
+  <p><b>Merit Medical</b> | Nov 2020 - Dec 2021</p>
+  <ul>
+    <li>Preventive maintenance workflow migrated from paper to digital traceability.</li>
+    <li>KPI visibility and administrative cycle reduction.</li>
+  </ul>
 
-### Data Entry + Documentation Specialist
-**Merit Medical** | Jun 2020 - Nov 2020
-- Oracle documentation, traceability and production support optimization.
+  <h3>Data Entry + Documentation Specialist</h3>
+  <p><b>Merit Medical</b> | Jun 2020 - Nov 2020</p>
+  <ul>
+    <li>Oracle documentation, traceability and production support optimization.</li>
+  </ul>
+</details>
 
 <br/>
 
+<!-- SEC: FEATURED_PROJECTS -->
+<a id="sec-projects"></a>
 ## Featured Projects
 
-### Supply Chain Visibility System
-Consolidated multi-source operational data in Domo (in-transit orders, remote inventory, moving orders) for better planning confidence and lower shipping error risk.
+<details>
+  <summary><b>Show / hide</b></summary>
 
-**Stack:** Domo, Oracle, Data Modeling
+> [!IMPORTANT]
+> **DATA / VISIBILITY**  
+> **Supply Chain Visibility System**  
+> Consolidated multi-source operational data in Domo (in-transit orders, remote inventory, moving orders) for better planning confidence and lower shipping error risk.  
+> **Stack:** Domo, Oracle, Data Modeling  
+> Link: _TBD_
 
----
+> [!TIP]
+> **LOW-CODE / GOVERNANCE**  
+> **Maintenance Digital Control**  
+> Converted preventive maintenance from paper to digital traceable workflows, increasing audit readiness and reducing administrative overhead.  
+> **Stack:** Power Apps, Power BI, Microsoft 365  
+> Link: _TBD_
 
-### Maintenance Digital Control
-Converted preventive maintenance from paper to digital traceable workflows, increasing audit readiness and reducing administrative overhead.
-
-**Stack:** Power Apps, Power BI, Microsoft 365
-
----
-
-### Production Intelligence Acceleration
-Redesigned DHRS closure and balancing process and enabled team adoption, reducing cycle time from 30 minutes to 5 minutes.
-
-**Stack:** Oracle, Power BI, Process Engineering
+> [!WARNING]
+> **OPEX / EXECUTION**  
+> **Production Intelligence Acceleration**  
+> Redesigned DHRS closure and balancing process and enabled team adoption, reducing cycle time from 30 minutes to 5 minutes.  
+> **Stack:** Oracle, Power BI, Process Engineering  
+> Link: _TBD_
+</details>
 
 <br/>
 
+<!-- SEC: LATEST_ARTICLES -->
+<a id="sec-articles"></a>
 ## Latest Articles
 
-<table>
-  <tr>
-    <td width="60%" valign="top" align="center">
-      <img width="100%" src="images/latest-articles-featured.svg" alt="Latest article" />
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img width="100%" src="images/latest-articles-card-1.svg" alt="Article card 1" />
-      <br/>
-      <img width="100%" src="images/latest-articles-card-2.svg" alt="Article card 2" />
-      <br/>
-      <img width="100%" src="images/latest-articles-card-3.svg" alt="Article card 3" />
-    </td>
-  </tr>
-</table>
+<details>
+  <summary><b>Show / hide</b></summary>
+
+> [!TIP]
+> **OPEX**  
+> **Operational Intelligence in Manufacturing**  
+> A practical framework to convert operational friction into scalable, governed systems.  
+> Link: _TBD_
+
+> [!NOTE]
+> **DATA**  
+> **KPI systems that teams actually use**  
+> Dashboards, governance, and adoption without the noise.  
+> Link: _TBD_
+
+> [!IMPORTANT]
+> **AI / CV**  
+> **Building AI with operational constraints**  
+> Where compliance, data quality, and execution matter.  
+> Link: _TBD_
+
+</details>
 
 <br/>
 
+<!-- SEC: SERVICES -->
+<a id="sec-services"></a>
 ## Services
+
+<details>
+  <summary><b>Show / hide</b></summary>
 
 ### Operational Diagnostics
 Detection of bottlenecks, failure points, and blind spots in production and support flows.
@@ -124,43 +153,70 @@ Dashboarding, apps, and governance-ready workflows that support faster, lower-ri
 ### Execution Governance
 Implementation standards that sustain performance, compliance, and measurable outcomes.
 
+</details>
+
 <br/>
 
+<!-- SEC: EDUCATION -->
+<a id="sec-education"></a>
 ## Education and Credentials
 
-### Artificial Intelligence Engineering
-- **Institution:** Hybridge Education
-- **Period:** Mar 2025 - Apr 2028
-- **Focus:** AI systems, model foundations, applied engineering
+<details>
+  <summary><b>Show / hide</b></summary>
+  <br/>
 
-### Big Data, AI and Machine Learning
-- **Institution:** KeepCoding
-- **Period:** May 2024 - Apr 2025
-- **Focus:** Data pipelines, ML workflows, analytics strategy
+  <h3>Artificial Intelligence Engineering</h3>
+  <ul>
+    <li><b>Institution:</b> Hybridge Education</li>
+    <li><b>Period:</b> Mar 2025 - Apr 2028</li>
+    <li><b>Focus:</b> AI systems, model foundations, applied engineering</li>
+  </ul>
 
-### IBM Z Day 2025 - AI and Data
-- **Institution:** IBM
-- **Period:** 2025
-- **Focus:** Enterprise AI and data ecosystems
+  <h3>Big Data, AI and Machine Learning</h3>
+  <ul>
+    <li><b>Institution:</b> KeepCoding</li>
+    <li><b>Period:</b> May 2024 - Apr 2025</li>
+    <li><b>Focus:</b> Data pipelines, ML workflows, analytics strategy</li>
+  </ul>
 
-### Introduction to AI
-- **Institution:** Professional Certificate
-- **Period:** Completed
-- **Focus:** Core AI concepts and practical applications
+  <h3>IBM Z Day 2025 - AI and Data</h3>
+  <ul>
+    <li><b>Institution:</b> IBM</li>
+    <li><b>Period:</b> 2025</li>
+    <li><b>Focus:</b> Enterprise AI and data ecosystems</li>
+  </ul>
 
-### Master's in Artificial Intelligence
-- **Institution:** Advanced Program
-- **Period:** Completed
-- **Focus:** Advanced AI methodology and deployment
+  <h3>Introduction to AI</h3>
+  <ul>
+    <li><b>Institution:</b> Professional Certificate</li>
+    <li><b>Period:</b> Completed</li>
+    <li><b>Focus:</b> Core AI concepts and practical applications</li>
+  </ul>
 
-### Master's in Data Science and Artificial Intelligence
-- **Institution:** Advanced Program
-- **Period:** Completed
-- **Focus:** Data science for decision systems
+  <h3>Master's in Artificial Intelligence</h3>
+  <ul>
+    <li><b>Institution:</b> Advanced Program</li>
+    <li><b>Period:</b> Completed</li>
+    <li><b>Focus:</b> Advanced AI methodology and deployment</li>
+  </ul>
+
+  <h3>Master's in Data Science and Artificial Intelligence</h3>
+  <ul>
+    <li><b>Institution:</b> Advanced Program</li>
+    <li><b>Period:</b> Completed</li>
+    <li><b>Focus:</b> Data science for decision systems</li>
+  </ul>
+</details>
 
 <br/>
 
+<!-- SEC: FAQ -->
+<a id="sec-faq"></a>
 ## FAQ
+
+<details>
+  <summary><b>Show / hide all</b></summary>
+  <br/>
 
 <details>
   <summary><b>How do you approach operational transformation?</b></summary>
@@ -192,8 +248,25 @@ Implementation standards that sustain performance, compliance, and measurable ou
   Yes. I am open to roles and collaborations in Operational Excellence, Data/Analytics Engineering, and AI-driven process improvement.
 </details>
 
+</details>
+
 <br/>
 
+<!-- SEC: COLLAB_HUB -->
+<a id="sec-hub"></a>
+## Industrial Intelligence & Collaboration Hub
+
+Looking to collaborate on **Industrial AI**, **DataOps**, or **Smart Manufacturing** projects?  
+I have opened a dedicated space for technical exchange, research papers, and professional networking:
+
+[![Collaborate - Open Issue](https://img.shields.io/badge/Collaborate-Open%20Issue-FF5A1F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/VictorOPEX/VictorOPEX/issues/1)
+
+*"Bridging the gap between the shop floor and executive strategy through data-driven discipline."*
+
+<br/>
+
+<!-- SEC: CTA_WORK_TOGETHER -->
+<a id="sec-cta"></a>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=56&duration=1&pause=999999&color=F4F7FB&center=true&vCenter=true&width=900&height=90&lines=Let's+work+together" alt="Let's work together" />
 </p>
@@ -206,7 +279,13 @@ Implementation standards that sustain performance, compliance, and measurable ou
 
 <br/>
 
+<!-- SEC: GITHUB_ACTIVITY -->
+<a id="sec-activity"></a>
 ## GitHub Activity
+
+<details>
+  <summary><b>Show / hide</b></summary>
+  <br/>
 
 <p align="center">
   <img width="76%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOPEX&theme=dark&background=0F1115&ring=D4AF37&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=8A93A2&stroke=2A2F3A&fire=D4AF37&hide_border=true" alt="Victor Dector streak stats" />
@@ -216,8 +295,6 @@ Implementation standards that sustain performance, compliance, and measurable ou
   <img width="76%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorOPEX&bg_color=0f1115&color=c9ced6&line=d4af37&point=c9ced6&area=true&hide_border=true" alt="Victor Dector contribution graph" />
 </p>
 
-<br/>
+</details>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2C3340,100:111318" alt="footer" />
-</p>
+<br/>
