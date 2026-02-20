@@ -1,4 +1,8 @@
 <p align="center">
+  <img width="100%" src="images/github%20-%20baner.svg" alt="GitHub banner" />
+</p>
+
+<p align="center">
   <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Oxanium&size=34&duration=2800&pause=900&color=F4F7FB&center=true&vCenter=true&width=1000&lines=Operational+Excellence+powered+by+Data+and+AI;Digital+transformation+for+manufacturing+operations;Analytics%2C+automation%2C+and+continuous+improvement" alt="typing line" />
 </p>
 
@@ -7,11 +11,45 @@
   <img src="https://img.shields.io/badge/Power_Apps-1B2430?style=for-the-badge&logo=microsoftpowerapps&logoColor=742774" alt="Power Apps" />
   <img src="https://img.shields.io/badge/Domo-1B2430?style=for-the-badge&logo=domo&logoColor=5AA9E6" alt="Domo" />
   <img src="https://img.shields.io/badge/Oracle-1B2430?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Monday.com-1B2430?style=for-the-badge&logo=mondaydotcom&logoColor=635BFF" alt="Monday.com" />
   <img src="https://img.shields.io/badge/Microsoft_365-1B2430?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01" alt="Microsoft 365" />
 </p>
 
+<p align="center">
+  <img src="images/icons-carousel.gif" alt="Tech stack carousel" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Skill icons" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,anaconda,python,docker,kubernetes,terraform,linux,bash,powershell&theme=dark" alt="Cloud and tooling" />
+</p>
+
+<p align="center"><b>Data + Platform</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,kafka,graphql,openshift,grafana&theme=dark" alt="Data and platform" />
+</p>
+
+<p align="center"><b>ML + Computer Vision</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,r&theme=dark" alt="ML and CV" />
+</p>
+
+<p align="center"><b>Build + Notes</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,pycharm,notion,obsidian,replit,raspberrypi&theme=dark" alt="Build and notes" />
+</p>
+
 <br/>
+
+## Skills
+
+- Operational Excellence (OPEX) and continuous improvement (Lean, 5S, VSM, visual management)
+- Data analytics and BI (executive dashboards, KPI systems, adoption and governance)
+- Low-code app development and automation (Power Apps, Microsoft 365 workflows)
+- Industry 4.0 and emerging tech (IoT, RPA, robotics, AI)
+- Data strategy, architecture, and governance (classification, management, decision systems)
 
 ## Experience
 
@@ -42,10 +80,6 @@ Consolidated multi-source operational data in Domo (in-transit orders, remote in
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOPEX&layout=compact&theme=transparent&hide_border=true&title_color=C9CED6&text_color=C9CED6" alt="maintenance project visual" />
-</p>
-
 ### Maintenance Digital Control
 Converted preventive maintenance from paper to digital traceable workflows, increasing audit readiness and reducing administrative overhead.
 
@@ -57,6 +91,25 @@ Converted preventive maintenance from paper to digital traceable workflows, incr
 Redesigned DHRS closure and balancing process and enabled team adoption, reducing cycle time from 30 minutes to 5 minutes.
 
 **Stack:** Oracle, Power BI, Process Engineering
+
+<br/>
+
+## Latest Articles
+
+<table>
+  <tr>
+    <td width="60%" valign="top" align="center">
+      <img width="100%" src="images/latest-articles-featured.svg" alt="Latest article" />
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img width="100%" src="images/latest-articles-card-1.svg" alt="Article card 1" />
+      <br/>
+      <img width="100%" src="images/latest-articles-card-2.svg" alt="Article card 2" />
+      <br/>
+      <img width="100%" src="images/latest-articles-card-3.svg" alt="Article card 3" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -141,23 +194,29 @@ Implementation standards that sustain performance, compliance, and measurable ou
 
 <br/>
 
-## GitHub Activity
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&size=56&duration=1&pause=999999&color=F4F7FB&center=true&vCenter=true&width=900&height=90&lines=Let's+work+together" alt="Let's work together" />
+</p>
 
 <p align="center">
-  <img width="76%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorOPEX&bg_color=0f1115&color=c9ced6&line=d4af37&point=c9ced6&area=true&hide_border=true" alt="Victor Dector contribution graph" />
+  <a href="mailto:victor.dector@outlook.com">
+    <img src="https://img.shields.io/badge/victor.dector%40outlook.com-FF5A1F?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email Victor Dector" />
+  </a>
 </p>
+
+<br/>
+
+## GitHub Activity
 
 <p align="center">
   <img width="76%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOPEX&theme=dark&background=0F1115&ring=D4AF37&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=8A93A2&stroke=2A2F3A&fire=D4AF37&hide_border=true" alt="Victor Dector streak stats" />
 </p>
 
+<p align="center">
+  <img width="76%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorOPEX&bg_color=0f1115&color=c9ced6&line=d4af37&point=c9ced6&area=true&hide_border=true" alt="Victor Dector contribution graph" />
+</p>
+
 <br/>
-
-## Contact
-
-- Email: `victor.dector@outlook.com`
-- LinkedIn: `https://www.linkedin.com/in/victorddectorr`
-- Location: `Tijuana, Baja California, Mexico`
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2C3340,100:111318" alt="footer" />
