@@ -55,7 +55,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#5AA9E6"></td>
+      <td width="1" bgcolor="#5AA9E6"></td>
       <td bgcolor="#141A22">
         <b>OPEX Technician II</b><br/>
         <b>Merit Medical</b> | Dec 2021 - Mar 2025
@@ -71,7 +71,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#5AA9E6"></td>
+      <td width="1" bgcolor="#5AA9E6"></td>
       <td bgcolor="#141A22">
         <b>Maintenance Technician II</b><br/>
         <b>Merit Medical</b> | Nov 2020 - Dec 2021
@@ -87,7 +87,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#5AA9E6"></td>
+      <td width="1" bgcolor="#5AA9E6"></td>
       <td bgcolor="#141A22">
         <b>Data Entry + Documentation Specialist</b><br/>
         <b>Merit Medical</b> | Jun 2020 - Nov 2020
@@ -113,7 +113,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#D4AF37"></td>
+      <td width="1" bgcolor="#D4AF37"></td>
       <td bgcolor="#141A22">
         <b>DATA / VISIBILITY</b><br/>
         <b>Supply Chain Visibility System</b><br/>
@@ -128,7 +128,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#5AA9E6"></td>
+      <td width="1" bgcolor="#5AA9E6"></td>
       <td bgcolor="#141A22">
         <b>LOW-CODE / GOVERNANCE</b><br/>
         <b>Maintenance Digital Control</b><br/>
@@ -143,7 +143,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#FF5A1F"></td>
+      <td width="1" bgcolor="#FF5A1F"></td>
       <td bgcolor="#141A22">
         <b>OPEX / EXECUTION</b><br/>
         <b>Production Intelligence Acceleration</b><br/>
@@ -169,7 +169,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#5AA9E6"></td>
+      <td width="1" bgcolor="#5AA9E6"></td>
       <td bgcolor="#141A22">
         <b>OPEX</b><br/>
         <b>Operational Intelligence in Manufacturing</b><br/>
@@ -183,7 +183,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#8A93A2"></td>
+      <td width="1" bgcolor="#8A93A2"></td>
       <td bgcolor="#141A22">
         <b>DATA</b><br/>
         <b>KPI systems that teams actually use</b><br/>
@@ -197,7 +197,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#D4AF37"></td>
+      <td width="1" bgcolor="#D4AF37"></td>
       <td bgcolor="#141A22">
         <b>AI / CV</b><br/>
         <b>Building AI with operational constraints</b><br/>
@@ -223,7 +223,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#5AA9E6"></td>
+      <td width="1" bgcolor="#5AA9E6"></td>
       <td bgcolor="#141A22">
         <b>Operational Diagnostics</b><br/>
         Detection of bottlenecks, failure points, and blind spots in production and support flows.
@@ -235,7 +235,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#5AA9E6"></td>
+      <td width="1" bgcolor="#5AA9E6"></td>
       <td bgcolor="#141A22">
         <b>Data + Automation Design</b><br/>
         Dashboarding, apps, and governance-ready workflows that support faster, lower-risk decisions.
@@ -247,7 +247,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#5AA9E6"></td>
+      <td width="1" bgcolor="#5AA9E6"></td>
       <td bgcolor="#141A22">
         <b>Execution Governance</b><br/>
         Implementation standards that sustain performance, compliance, and measurable outcomes.
@@ -270,7 +270,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#D4AF37"></td>
+      <td width="1" bgcolor="#D4AF37"></td>
       <td bgcolor="#141A22">
         <b>Artificial Intelligence Engineering</b>
         <ul>
@@ -286,7 +286,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#D4AF37"></td>
+      <td width="1" bgcolor="#D4AF37"></td>
       <td bgcolor="#141A22">
         <b>Big Data, AI and Machine Learning</b>
         <ul>
@@ -302,7 +302,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#D4AF37"></td>
+      <td width="1" bgcolor="#D4AF37"></td>
       <td bgcolor="#141A22">
         <b>IBM Z Day 2025 - AI and Data</b>
         <ul>
@@ -318,7 +318,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#D4AF37"></td>
+      <td width="1" bgcolor="#D4AF37"></td>
       <td bgcolor="#141A22">
         <b>Introduction to AI</b>
         <ul>
@@ -334,7 +334,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#D4AF37"></td>
+      <td width="1" bgcolor="#D4AF37"></td>
       <td bgcolor="#141A22">
         <b>Master's in Artificial Intelligence</b>
         <ul>
@@ -350,7 +350,7 @@
 
   <table width="100%" cellpadding="14" cellspacing="0">
     <tr>
-      <td width="4" bgcolor="#D4AF37"></td>
+      <td width="1" bgcolor="#D4AF37"></td>
       <td bgcolor="#141A22">
         <b>Master's in Data Science and Artificial Intelligence</b>
         <ul>
