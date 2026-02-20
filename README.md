@@ -256,8 +256,10 @@ Implementation standards that sustain performance, compliance, and measurable ou
 <a id="sec-hub"></a>
 ## Industrial Intelligence & Collaboration Hub
 
-Looking to collaborate on **Industrial AI**, **DataOps**, or **Smart Manufacturing** projects?  
-I have opened a dedicated space for technical exchange, research papers, and professional networking:
+<p align="center">
+  Looking to collaborate on <b>Industrial AI</b>, <b>DataOps</b>, or <b>Smart Manufacturing</b> projects?<br/>
+  I have opened a dedicated space for technical exchange, research papers, and professional networking:
+</p>
 
 <p align="center">
   <a href="https://github.com/VictorOPEX/VictorOPEX/issues/1">
