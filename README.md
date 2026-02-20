@@ -259,9 +259,13 @@ Implementation standards that sustain performance, compliance, and measurable ou
 Looking to collaborate on **Industrial AI**, **DataOps**, or **Smart Manufacturing** projects?  
 I have opened a dedicated space for technical exchange, research papers, and professional networking:
 
-[![Collaborate - Open Issue](https://img.shields.io/badge/Collaborate-Open%20Issue-FF5A1F?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/VictorOPEX/VictorOPEX/issues/1)
+<p align="center">
+  <a href="https://github.com/VictorOPEX/VictorOPEX/issues/1">
+    <img src="https://img.shields.io/badge/Collaborate-Open%20Issue-FF5A1F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Collaborate - Open Issue" />
+  </a>
+</p>
 
-*"Bridging the gap between the shop floor and executive strategy through data-driven discipline."*
+<p align="center"><i>"Bridging the gap between the shop floor and executive strategy through data-driven discipline."</i></p>
 
 <br/>
 
