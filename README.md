@@ -16,22 +16,19 @@
 <br/>
 
 <!-- SEC: NAVIGATION -->
-<details>
-  <summary><b>TOC</b></summary>
-  <br/>
-  <p>
-    <a href="#sec-skills">Skills</a> ·
-    <a href="#sec-experience">Experience</a> ·
-    <a href="#sec-projects">Featured Projects</a> ·
-    <a href="#sec-articles">Latest Articles</a> ·
-    <a href="#sec-services">Services</a> ·
-    <a href="#sec-education">Education</a> ·
-    <a href="#sec-faq">FAQ</a> ·
-    <a href="#sec-hub">Collaboration Hub</a> ·
-    <a href="#sec-cta">CTA</a> ·
-    <a href="#sec-activity">GitHub Activity</a>
-  </p>
-</details>
+<p align="center"><b>Navigation</b></p>
+<p align="center">
+  <a href="#sec-skills">Skills</a> ·
+  <a href="#jump-experience">Experience</a> ·
+  <a href="#jump-projects">Featured Projects</a> ·
+  <a href="#jump-articles">Latest Articles</a> ·
+  <a href="#jump-services">Services</a> ·
+  <a href="#jump-education">Education</a> ·
+  <a href="#jump-faq">FAQ</a> ·
+  <a href="#sec-hub">Collaboration Hub</a> ·
+  <a href="#sec-cta">CTA</a> ·
+  <a href="#jump-activity">GitHub Activity</a>
+</p>
 
 <br/>
 
@@ -51,6 +48,7 @@
 
 <details>
   <summary><b>Show / hide</b></summary>
+  <a id="jump-experience"></a>
   <br/>
   <p><b>Here is a quick summary of my most relevant experiences:</b></p>
 
@@ -83,6 +81,7 @@
 
 <details>
   <summary><b>Show / hide</b></summary>
+  <a id="jump-projects"></a>
 
 > [!IMPORTANT]
 > **DATA / VISIBILITY**  
@@ -114,6 +113,7 @@
 
 <details>
   <summary><b>Show / hide</b></summary>
+  <a id="jump-articles"></a>
 
 > [!TIP]
 > **OPEX**  
@@ -143,6 +143,7 @@
 
 <details>
   <summary><b>Show / hide</b></summary>
+  <a id="jump-services"></a>
 
 ### Operational Diagnostics
 Detection of bottlenecks, failure points, and blind spots in production and support flows.
@@ -163,6 +164,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
 
 <details>
   <summary><b>Show / hide</b></summary>
+  <a id="jump-education"></a>
   <br/>
 
   <h3>Artificial Intelligence Engineering</h3>
@@ -216,6 +218,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
 
 <details>
   <summary><b>Show / hide all</b></summary>
+  <a id="jump-faq"></a>
   <br/>
 
 <details>
@@ -291,6 +294,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
 
 <details>
   <summary><b>Show / hide</b></summary>
+  <a id="jump-activity"></a>
   <br/>
 
 <p align="center">
