@@ -254,7 +254,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
 
 <!-- SEC: COLLAB_HUB -->
 <a id="sec-hub"></a>
-## Industrial Intelligence & Collaboration Hub
+<h2 align="center">Industrial Intelligence &amp; Collaboration Hub</h2>
 
 <p align="center">
   Looking to collaborate on <b>Industrial AI</b>, <b>DataOps</b>, or <b>Smart Manufacturing</b> projects?<br/>
