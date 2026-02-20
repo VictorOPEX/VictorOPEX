@@ -56,7 +56,7 @@
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>OPEX Technician II</b><br/>
 <b>Merit Medical</b> | Dec 2021 - Mar 2025
 <ul>
@@ -73,7 +73,7 @@
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>Maintenance Technician II</b><br/>
 <b>Merit Medical</b> | Nov 2020 - Dec 2021
 <ul>
@@ -90,7 +90,7 @@
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>Data Entry + Documentation Specialist</b><br/>
 <b>Merit Medical</b> | Jun 2020 - Nov 2020
 <ul>
@@ -117,7 +117,7 @@
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>DATA / VISIBILITY</b><br/>
 <b>Supply Chain Visibility System</b><br/>
 Consolidated multi-source operational data in Domo (in-transit orders, remote inventory, moving orders) for better planning confidence and lower shipping error risk.<br/><br/>
@@ -133,7 +133,7 @@ Link: <i>TBD</i>
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>LOW-CODE / GOVERNANCE</b><br/>
 <b>Maintenance Digital Control</b><br/>
 Converted preventive maintenance from paper to digital traceable workflows, increasing audit readiness and reducing administrative overhead.<br/><br/>
@@ -149,7 +149,7 @@ Link: <i>TBD</i>
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>OPEX / EXECUTION</b><br/>
 <b>Production Intelligence Acceleration</b><br/>
 Redesigned DHRS closure and balancing process and enabled team adoption, reducing cycle time from 30 minutes to 5 minutes.<br/><br/>
@@ -176,7 +176,7 @@ Link: <i>TBD</i>
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>OPEX</b><br/>
 <b>Operational Intelligence in Manufacturing</b><br/>
 A practical framework to convert operational friction into scalable, governed systems.<br/><br/>
@@ -191,7 +191,7 @@ Link: <i>TBD</i>
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>DATA</b><br/>
 <b>KPI systems that teams actually use</b><br/>
 Dashboards, governance, and adoption without the noise.<br/><br/>
@@ -206,7 +206,7 @@ Link: <i>TBD</i>
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>AI / CV</b><br/>
 <b>Building AI with operational constraints</b><br/>
 Where compliance, data quality, and execution matter.<br/><br/>
@@ -233,7 +233,7 @@ Link: <i>TBD</i>
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>Operational Diagnostics</b><br/>
 Detection of bottlenecks, failure points, and blind spots in production and support flows.
 </td>
@@ -246,7 +246,7 @@ Detection of bottlenecks, failure points, and blind spots in production and supp
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>Data + Automation Design</b><br/>
 Dashboarding, apps, and governance-ready workflows that support faster, lower-risk decisions.
 </td>
@@ -259,7 +259,7 @@ Dashboarding, apps, and governance-ready workflows that support faster, lower-ri
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>Execution Governance</b><br/>
 Implementation standards that sustain performance, compliance, and measurable outcomes.
 </td>
@@ -283,7 +283,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>Artificial Intelligence Engineering</b>
 <ul>
 <li><b>Institution:</b> Hybridge Education</li>
@@ -300,7 +300,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>Big Data, AI and Machine Learning</b>
 <ul>
 <li><b>Institution:</b> KeepCoding</li>
@@ -317,7 +317,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>IBM Z Day 2025 - AI and Data</b>
 <ul>
 <li><b>Institution:</b> IBM</li>
@@ -334,7 +334,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>Introduction to AI</b>
 <ul>
 <li><b>Institution:</b> Professional Certificate</li>
@@ -351,7 +351,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>Master's in Artificial Intelligence</b>
 <ul>
 <li><b>Institution:</b> Advanced Program</li>
@@ -368,7 +368,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
   <blockquote>
 <table width="100%" cellpadding="14" cellspacing="0">
 <tr>
-<td bgcolor="#141A22">
+<td>
 <b>Master's in Data Science and Artificial Intelligence</b>
 <ul>
 <li><b>Institution:</b> Advanced Program</li>
