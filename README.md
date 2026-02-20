@@ -278,8 +278,8 @@ Implementation standards that sustain performance, compliance, and measurable ou
 </p>
 
 <p align="center">
-  <a href="mailto:victor.dector@outlook.com">
-    <img src="https://img.shields.io/badge/victor.dector%40outlook.com-FF5A1F?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email Victor Dector" />
+  <a href="https://github.com/VictorOPEX/VictorOPEX/issues/1">
+    <img src="https://img.shields.io/badge/Start%20a%20conversation-Open%20Issue-FF5A1F?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Start a conversation - Open Issue" />
   </a>
 </p>
 
