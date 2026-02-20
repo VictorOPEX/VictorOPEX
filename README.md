@@ -53,68 +53,53 @@
   <a id="jump-experience"></a>
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#5AA9E6"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-EXPERIENCE-5AA9E6?style=flat-square" alt="EXPERIENCE" />
+      <br/><br/>
         <b>OPEX Technician II</b><br/>
         <b>Merit Medical</b> | Dec 2021 - Mar 2025
         <ul>
           <li>Cross-functional digitalization across nursing, EHS, planning, production and CI.</li>
           <li>Business apps + dashboards for faster, lower-risk decisions.</li>
         </ul>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#5AA9E6"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-EXPERIENCE-5AA9E6?style=flat-square" alt="EXPERIENCE" />
+      <br/><br/>
         <b>Maintenance Technician II</b><br/>
         <b>Merit Medical</b> | Nov 2020 - Dec 2021
         <ul>
           <li>Preventive maintenance workflow migrated from paper to digital traceability.</li>
           <li>KPI visibility and administrative cycle reduction.</li>
         </ul>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#5AA9E6"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-EXPERIENCE-5AA9E6?style=flat-square" alt="EXPERIENCE" />
+      <br/><br/>
         <b>Data Entry + Documentation Specialist</b><br/>
         <b>Merit Medical</b> | Jun 2020 - Nov 2020
         <ul>
           <li>Oracle documentation, traceability and production support optimization.</li>
         </ul>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 </details>
 
 <br/>
@@ -129,66 +114,48 @@
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#D4AF37"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
-        <b>DATA / VISIBILITY</b><br/>
-        <b>Supply Chain Visibility System</b><br/>
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-DATA%20%2F%20VISIBILITY-D4AF37?style=flat-square" alt="DATA / VISIBILITY" />
+      <br/><br/>
+<b>Supply Chain Visibility System</b><br/>
         Consolidated multi-source operational data in Domo (in-transit orders, remote inventory, moving orders) for better planning confidence and lower shipping error risk.<br/><br/>
         <b>Stack:</b> Domo, Oracle, Data Modeling<br/>
         Link: <i>TBD</i>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#5AA9E6"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
-        <b>LOW-CODE / GOVERNANCE</b><br/>
-        <b>Maintenance Digital Control</b><br/>
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-LOW-CODE%20%2F%20GOVERNANCE-5AA9E6?style=flat-square" alt="LOW-CODE / GOVERNANCE" />
+      <br/><br/>
+<b>Maintenance Digital Control</b><br/>
         Converted preventive maintenance from paper to digital traceable workflows, increasing audit readiness and reducing administrative overhead.<br/><br/>
         <b>Stack:</b> Power Apps, Power BI, Microsoft 365<br/>
         Link: <i>TBD</i>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#FF5A1F"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
-        <b>OPEX / EXECUTION</b><br/>
-        <b>Production Intelligence Acceleration</b><br/>
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-OPEX%20%2F%20EXECUTION-FF5A1F?style=flat-square" alt="OPEX / EXECUTION" />
+      <br/><br/>
+<b>Production Intelligence Acceleration</b><br/>
         Redesigned DHRS closure and balancing process and enabled team adoption, reducing cycle time from 30 minutes to 5 minutes.<br/><br/>
         <b>Stack:</b> Oracle, Power BI, Process Engineering<br/>
         Link: <i>TBD</i>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 </details>
 
 <br/>
@@ -203,63 +170,45 @@
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#5AA9E6"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
-        <b>OPEX</b><br/>
-        <b>Operational Intelligence in Manufacturing</b><br/>
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-OPEX-5AA9E6?style=flat-square" alt="OPEX" />
+      <br/><br/>
+<b>Operational Intelligence in Manufacturing</b><br/>
         A practical framework to convert operational friction into scalable, governed systems.<br/><br/>
         Link: <i>TBD</i>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#8A93A2"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
-        <b>DATA</b><br/>
-        <b>KPI systems that teams actually use</b><br/>
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-DATA-8A93A2?style=flat-square" alt="DATA" />
+      <br/><br/>
+<b>KPI systems that teams actually use</b><br/>
         Dashboards, governance, and adoption without the noise.<br/><br/>
         Link: <i>TBD</i>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#D4AF37"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
-        <b>AI / CV</b><br/>
-        <b>Building AI with operational constraints</b><br/>
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-AI%20%2F%20CV-D4AF37?style=flat-square" alt="AI / CV" />
+      <br/><br/>
+<b>Building AI with operational constraints</b><br/>
         Where compliance, data quality, and execution matter.<br/><br/>
         Link: <i>TBD</i>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -275,57 +224,42 @@
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#5AA9E6"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-SERVICE-5AA9E6?style=flat-square" alt="SERVICE" />
+      <br/><br/>
         <b>Operational Diagnostics</b><br/>
         Detection of bottlenecks, failure points, and blind spots in production and support flows.
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#5AA9E6"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-SERVICE-5AA9E6?style=flat-square" alt="SERVICE" />
+      <br/><br/>
         <b>Data + Automation Design</b><br/>
         Dashboarding, apps, and governance-ready workflows that support faster, lower-risk decisions.
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#5AA9E6"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-SERVICE-5AA9E6?style=flat-square" alt="SERVICE" />
+      <br/><br/>
         <b>Execution Governance</b><br/>
         Implementation standards that sustain performance, compliance, and measurable outcomes.
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -340,135 +274,105 @@
   <a id="jump-education"></a>
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#D4AF37"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-EDUCATION-D4AF37?style=flat-square" alt="EDUCATION" />
+      <br/><br/>
         <b>Artificial Intelligence Engineering</b>
         <ul>
           <li><b>Institution:</b> Hybridge Education</li>
           <li><b>Period:</b> Mar 2025 - Apr 2028</li>
           <li><b>Focus:</b> AI systems, model foundations, applied engineering</li>
         </ul>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#D4AF37"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-EDUCATION-D4AF37?style=flat-square" alt="EDUCATION" />
+      <br/><br/>
         <b>Big Data, AI and Machine Learning</b>
         <ul>
           <li><b>Institution:</b> KeepCoding</li>
           <li><b>Period:</b> May 2024 - Apr 2025</li>
           <li><b>Focus:</b> Data pipelines, ML workflows, analytics strategy</li>
         </ul>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#D4AF37"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-EDUCATION-D4AF37?style=flat-square" alt="EDUCATION" />
+      <br/><br/>
         <b>IBM Z Day 2025 - AI and Data</b>
         <ul>
           <li><b>Institution:</b> IBM</li>
           <li><b>Period:</b> 2025</li>
           <li><b>Focus:</b> Enterprise AI and data ecosystems</li>
         </ul>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#D4AF37"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-EDUCATION-D4AF37?style=flat-square" alt="EDUCATION" />
+      <br/><br/>
         <b>Introduction to AI</b>
         <ul>
           <li><b>Institution:</b> Professional Certificate</li>
           <li><b>Period:</b> Completed</li>
           <li><b>Focus:</b> Core AI concepts and practical applications</li>
         </ul>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#D4AF37"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-EDUCATION-D4AF37?style=flat-square" alt="EDUCATION" />
+      <br/><br/>
         <b>Master's in Artificial Intelligence</b>
         <ul>
           <li><b>Institution:</b> Advanced Program</li>
           <li><b>Period:</b> Completed</li>
           <li><b>Focus:</b> Advanced AI methodology and deployment</li>
         </ul>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br/>
 
-  <table width="100%" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="1" bgcolor="#D4AF37"></td>
-      <td>
-        <table width="100%" cellpadding="14" cellspacing="0">
-          <tr>
-            <td bgcolor="#141A22">
+  <table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td bgcolor="#141A22">
+      <img src="https://img.shields.io/badge/-EDUCATION-D4AF37?style=flat-square" alt="EDUCATION" />
+      <br/><br/>
         <b>Master's in Data Science and Artificial Intelligence</b>
         <ul>
           <li><b>Institution:</b> Advanced Program</li>
           <li><b>Period:</b> Completed</li>
           <li><b>Focus:</b> Data science for decision systems</li>
         </ul>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 </details>
 
 <br/>
