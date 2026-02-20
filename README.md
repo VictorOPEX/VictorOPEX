@@ -1,8 +1,6 @@
 <p align="center">
-  <img width="100%" src="images/github%20-%20baner%20-%208.gif" alt="GitHub banner" />
+  <img width="100%" src="images/github-banner.gif" alt="GitHub banner" />
 </p>
-
-
 
 <br/>
 <br/>

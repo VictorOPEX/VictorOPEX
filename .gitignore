@@ -12,3 +12,6 @@ README_STYLES.md
 
 # Local assets folder used for previews/tests
 assets/
+
+# Local banner/video experiments (do not commit)
+images/drafts/
