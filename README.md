@@ -15,6 +15,10 @@
 
 <br/>
 
+<p align="center">
+  <img src="images/divider.gif" alt="divider" width="100%" />
+</p>
+
 <br/>
 
 <!-- SEC: NAVIGATION -->
