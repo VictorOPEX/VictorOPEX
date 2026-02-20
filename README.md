@@ -52,27 +52,51 @@
   <summary><b>Show / hide</b></summary>
   <a id="jump-experience"></a>
   <br/>
-  <p><b>Here is a quick summary of my most relevant experiences:</b></p>
 
-  <h3>OPEX Technician II</h3>
-  <p><b>Merit Medical</b> | Dec 2021 - Mar 2025</p>
-  <ul>
-    <li>Cross-functional digitalization across nursing, EHS, planning, production and CI.</li>
-    <li>Business apps + dashboards for faster, lower-risk decisions.</li>
-  </ul>
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#5AA9E6"></td>
+      <td bgcolor="#141A22">
+        <b>OPEX Technician II</b><br/>
+        <b>Merit Medical</b> | Dec 2021 - Mar 2025
+        <ul>
+          <li>Cross-functional digitalization across nursing, EHS, planning, production and CI.</li>
+          <li>Business apps + dashboards for faster, lower-risk decisions.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
-  <h3>Maintenance Technician II</h3>
-  <p><b>Merit Medical</b> | Nov 2020 - Dec 2021</p>
-  <ul>
-    <li>Preventive maintenance workflow migrated from paper to digital traceability.</li>
-    <li>KPI visibility and administrative cycle reduction.</li>
-  </ul>
+  <br/>
 
-  <h3>Data Entry + Documentation Specialist</h3>
-  <p><b>Merit Medical</b> | Jun 2020 - Nov 2020</p>
-  <ul>
-    <li>Oracle documentation, traceability and production support optimization.</li>
-  </ul>
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#5AA9E6"></td>
+      <td bgcolor="#141A22">
+        <b>Maintenance Technician II</b><br/>
+        <b>Merit Medical</b> | Nov 2020 - Dec 2021
+        <ul>
+          <li>Preventive maintenance workflow migrated from paper to digital traceability.</li>
+          <li>KPI visibility and administrative cycle reduction.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#5AA9E6"></td>
+      <td bgcolor="#141A22">
+        <b>Data Entry + Documentation Specialist</b><br/>
+        <b>Merit Medical</b> | Jun 2020 - Nov 2020
+        <ul>
+          <li>Oracle documentation, traceability and production support optimization.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <br/>
@@ -85,29 +109,50 @@
   <summary><b>Show / hide</b></summary>
   <a id="jump-projects"></a>
 
-> [!IMPORTANT]
-> 
-> **DATA / VISIBILITY**  
-> **Supply Chain Visibility System**  
-> Consolidated multi-source operational data in Domo (in-transit orders, remote inventory, moving orders) for better planning confidence and lower shipping error risk.  
-> **Stack:** Domo, Oracle, Data Modeling  
-> Link: _TBD_
+  <br/>
 
-> [!TIP]
-> 
-> **LOW-CODE / GOVERNANCE**  
-> **Maintenance Digital Control**  
-> Converted preventive maintenance from paper to digital traceable workflows, increasing audit readiness and reducing administrative overhead.  
-> **Stack:** Power Apps, Power BI, Microsoft 365  
-> Link: _TBD_
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#D4AF37"></td>
+      <td bgcolor="#141A22">
+        <b>DATA / VISIBILITY</b><br/>
+        <b>Supply Chain Visibility System</b><br/>
+        Consolidated multi-source operational data in Domo (in-transit orders, remote inventory, moving orders) for better planning confidence and lower shipping error risk.<br/><br/>
+        <b>Stack:</b> Domo, Oracle, Data Modeling<br/>
+        Link: <i>TBD</i>
+      </td>
+    </tr>
+  </table>
 
-> [!WARNING]
-> 
-> **OPEX / EXECUTION**  
-> **Production Intelligence Acceleration**  
-> Redesigned DHRS closure and balancing process and enabled team adoption, reducing cycle time from 30 minutes to 5 minutes.  
-> **Stack:** Oracle, Power BI, Process Engineering  
-> Link: _TBD_
+  <br/>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#5AA9E6"></td>
+      <td bgcolor="#141A22">
+        <b>LOW-CODE / GOVERNANCE</b><br/>
+        <b>Maintenance Digital Control</b><br/>
+        Converted preventive maintenance from paper to digital traceable workflows, increasing audit readiness and reducing administrative overhead.<br/><br/>
+        <b>Stack:</b> Power Apps, Power BI, Microsoft 365<br/>
+        Link: <i>TBD</i>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#FF5A1F"></td>
+      <td bgcolor="#141A22">
+        <b>OPEX / EXECUTION</b><br/>
+        <b>Production Intelligence Acceleration</b><br/>
+        Redesigned DHRS closure and balancing process and enabled team adoption, reducing cycle time from 30 minutes to 5 minutes.<br/><br/>
+        <b>Stack:</b> Oracle, Power BI, Process Engineering<br/>
+        Link: <i>TBD</i>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <br/>
@@ -120,26 +165,47 @@
   <summary><b>Show / hide</b></summary>
   <a id="jump-articles"></a>
 
-> [!TIP]
-> 
-> **OPEX**  
-> **Operational Intelligence in Manufacturing**  
-> A practical framework to convert operational friction into scalable, governed systems.  
-> Link: _TBD_
+  <br/>
 
-> [!NOTE]
-> 
-> **DATA**  
-> **KPI systems that teams actually use**  
-> Dashboards, governance, and adoption without the noise.  
-> Link: _TBD_
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#5AA9E6"></td>
+      <td bgcolor="#141A22">
+        <b>OPEX</b><br/>
+        <b>Operational Intelligence in Manufacturing</b><br/>
+        A practical framework to convert operational friction into scalable, governed systems.<br/><br/>
+        Link: <i>TBD</i>
+      </td>
+    </tr>
+  </table>
 
-> [!IMPORTANT]
-> 
-> **AI / CV**  
-> **Building AI with operational constraints**  
-> Where compliance, data quality, and execution matter.  
-> Link: _TBD_
+  <br/>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#8A93A2"></td>
+      <td bgcolor="#141A22">
+        <b>DATA</b><br/>
+        <b>KPI systems that teams actually use</b><br/>
+        Dashboards, governance, and adoption without the noise.<br/><br/>
+        Link: <i>TBD</i>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#D4AF37"></td>
+      <td bgcolor="#141A22">
+        <b>AI / CV</b><br/>
+        <b>Building AI with operational constraints</b><br/>
+        Where compliance, data quality, and execution matter.<br/><br/>
+        Link: <i>TBD</i>
+      </td>
+    </tr>
+  </table>
 
 </details>
 
@@ -153,14 +219,41 @@
   <summary><b>Show / hide</b></summary>
   <a id="jump-services"></a>
 
-### Operational Diagnostics
-Detection of bottlenecks, failure points, and blind spots in production and support flows.
+  <br/>
 
-### Data + Automation Design
-Dashboarding, apps, and governance-ready workflows that support faster, lower-risk decisions.
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#5AA9E6"></td>
+      <td bgcolor="#141A22">
+        <b>Operational Diagnostics</b><br/>
+        Detection of bottlenecks, failure points, and blind spots in production and support flows.
+      </td>
+    </tr>
+  </table>
 
-### Execution Governance
-Implementation standards that sustain performance, compliance, and measurable outcomes.
+  <br/>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#5AA9E6"></td>
+      <td bgcolor="#141A22">
+        <b>Data + Automation Design</b><br/>
+        Dashboarding, apps, and governance-ready workflows that support faster, lower-risk decisions.
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#5AA9E6"></td>
+      <td bgcolor="#141A22">
+        <b>Execution Governance</b><br/>
+        Implementation standards that sustain performance, compliance, and measurable outcomes.
+      </td>
+    </tr>
+  </table>
 
 </details>
 
@@ -175,47 +268,99 @@ Implementation standards that sustain performance, compliance, and measurable ou
   <a id="jump-education"></a>
   <br/>
 
-  <h3>Artificial Intelligence Engineering</h3>
-  <ul>
-    <li><b>Institution:</b> Hybridge Education</li>
-    <li><b>Period:</b> Mar 2025 - Apr 2028</li>
-    <li><b>Focus:</b> AI systems, model foundations, applied engineering</li>
-  </ul>
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#D4AF37"></td>
+      <td bgcolor="#141A22">
+        <b>Artificial Intelligence Engineering</b>
+        <ul>
+          <li><b>Institution:</b> Hybridge Education</li>
+          <li><b>Period:</b> Mar 2025 - Apr 2028</li>
+          <li><b>Focus:</b> AI systems, model foundations, applied engineering</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
-  <h3>Big Data, AI and Machine Learning</h3>
-  <ul>
-    <li><b>Institution:</b> KeepCoding</li>
-    <li><b>Period:</b> May 2024 - Apr 2025</li>
-    <li><b>Focus:</b> Data pipelines, ML workflows, analytics strategy</li>
-  </ul>
+  <br/>
 
-  <h3>IBM Z Day 2025 - AI and Data</h3>
-  <ul>
-    <li><b>Institution:</b> IBM</li>
-    <li><b>Period:</b> 2025</li>
-    <li><b>Focus:</b> Enterprise AI and data ecosystems</li>
-  </ul>
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#D4AF37"></td>
+      <td bgcolor="#141A22">
+        <b>Big Data, AI and Machine Learning</b>
+        <ul>
+          <li><b>Institution:</b> KeepCoding</li>
+          <li><b>Period:</b> May 2024 - Apr 2025</li>
+          <li><b>Focus:</b> Data pipelines, ML workflows, analytics strategy</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
-  <h3>Introduction to AI</h3>
-  <ul>
-    <li><b>Institution:</b> Professional Certificate</li>
-    <li><b>Period:</b> Completed</li>
-    <li><b>Focus:</b> Core AI concepts and practical applications</li>
-  </ul>
+  <br/>
 
-  <h3>Master's in Artificial Intelligence</h3>
-  <ul>
-    <li><b>Institution:</b> Advanced Program</li>
-    <li><b>Period:</b> Completed</li>
-    <li><b>Focus:</b> Advanced AI methodology and deployment</li>
-  </ul>
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#D4AF37"></td>
+      <td bgcolor="#141A22">
+        <b>IBM Z Day 2025 - AI and Data</b>
+        <ul>
+          <li><b>Institution:</b> IBM</li>
+          <li><b>Period:</b> 2025</li>
+          <li><b>Focus:</b> Enterprise AI and data ecosystems</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
-  <h3>Master's in Data Science and Artificial Intelligence</h3>
-  <ul>
-    <li><b>Institution:</b> Advanced Program</li>
-    <li><b>Period:</b> Completed</li>
-    <li><b>Focus:</b> Data science for decision systems</li>
-  </ul>
+  <br/>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#D4AF37"></td>
+      <td bgcolor="#141A22">
+        <b>Introduction to AI</b>
+        <ul>
+          <li><b>Institution:</b> Professional Certificate</li>
+          <li><b>Period:</b> Completed</li>
+          <li><b>Focus:</b> Core AI concepts and practical applications</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#D4AF37"></td>
+      <td bgcolor="#141A22">
+        <b>Master's in Artificial Intelligence</b>
+        <ul>
+          <li><b>Institution:</b> Advanced Program</li>
+          <li><b>Period:</b> Completed</li>
+          <li><b>Focus:</b> Advanced AI methodology and deployment</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <table width="100%" cellpadding="14" cellspacing="0">
+    <tr>
+      <td width="8" bgcolor="#D4AF37"></td>
+      <td bgcolor="#141A22">
+        <b>Master's in Data Science and Artificial Intelligence</b>
+        <ul>
+          <li><b>Institution:</b> Advanced Program</li>
+          <li><b>Period:</b> Completed</li>
+          <li><b>Focus:</b> Data science for decision systems</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <br/>
