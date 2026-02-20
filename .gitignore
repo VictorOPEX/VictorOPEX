@@ -1,16 +1,53 @@
-# Local draft and scratch files
+# =========================
+# OS / Editor Noise
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+.vscode/
+.idea/
+*.code-workspace
+
+# Cursor / Copilot / misc
+.cursor/
+
+# =========================
+# Python / Virtualenv
+# =========================
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# Logs / Cache / Build
+# =========================
+*.log
+.cache/
+dist/
+build/
+
+# =========================
+# Repo-Specific Local Files
+# =========================
+# Scratch files (local-only)
 Untitled
 Test.md
-.venv/
 
 # Personal/source CV working file (not for public profile repo)
 CV.md
 
-# Design exploration docs
+# Design exploration docs (keep local)
 README_FONTS.md
 README_STYLES.md
 
-# Local assets folder used for previews/tests
+# Local assets used for previews/tests (do not commit)
 assets/
 
 # Local banner/video experiments (do not commit)
