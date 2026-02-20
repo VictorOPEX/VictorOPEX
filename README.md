@@ -114,7 +114,7 @@ Implementation standards that sustain performance, compliance, and measurable ou
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOPEX&theme=dark&background=0F1115&ring=D4AF37&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=8A93A2&stroke=2A2F3A&fire=D4AF37&hide_border=true" alt="Victor Dector streak stats" />
+  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOPEX&theme=dark&background=0F1115&ring=D4AF37&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=8A93A2&stroke=2A2F3A&fire=D4AF37&hide_border=true" alt="Victor Dector streak stats" />
 </p>
 
 <br/>
