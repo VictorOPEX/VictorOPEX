@@ -27,23 +27,31 @@
       </table>
       <table width="92%">
         <tr>
-          <td width="24%" valign="top"><b>Merit Medical</b></td>
-          <td width="56%" valign="top"><b>OPEX Technician II</b><br/>- Cross-functional digitalization across nursing, EHS, planning, production and CI.<br/>- Business apps + dashboards for faster, lower-risk decisions.</td>
-          <td width="20%" valign="top" align="right">Dec 2021 - Mar 2025</td>
+          <td align="left">
+            <h3>OPEX Technician II</h3>
+            <p><b>Merit Medical</b> | Dec 2021 - Mar 2025</p>
+            <p>- Cross-functional digitalization across nursing, EHS, planning, production and CI.<br/>- Business apps + dashboards for faster, lower-risk decisions.</p>
+          </td>
         </tr>
       </table>
+      <br/>
       <table width="92%">
         <tr>
-          <td width="24%" valign="top"><b>Merit Medical</b></td>
-          <td width="56%" valign="top"><b>Maintenance Technician II</b><br/>- Preventive maintenance workflow migrated from paper to digital traceability.<br/>- KPI visibility and administrative cycle reduction.</td>
-          <td width="20%" valign="top" align="right">Nov 2020 - Dec 2021</td>
+          <td align="left">
+            <h3>Maintenance Technician II</h3>
+            <p><b>Merit Medical</b> | Nov 2020 - Dec 2021</p>
+            <p>- Preventive maintenance workflow migrated from paper to digital traceability.<br/>- KPI visibility and administrative cycle reduction.</p>
+          </td>
         </tr>
       </table>
+      <br/>
       <table width="92%">
         <tr>
-          <td width="24%" valign="top"><b>Merit Medical</b></td>
-          <td width="56%" valign="top"><b>Data Entry + Documentation Specialist</b><br/>- Oracle documentation, traceability and production support optimization.</td>
-          <td width="20%" valign="top" align="right">Jun 2020 - Nov 2020</td>
+          <td align="left">
+            <h3>Data Entry + Documentation Specialist</h3>
+            <p><b>Merit Medical</b> | Jun 2020 - Nov 2020</p>
+            <p>- Oracle documentation, traceability and production support optimization.</p>
+          </td>
         </tr>
       </table>
     </td>
@@ -60,7 +68,6 @@
       <table width="92%">
         <tr>
           <td align="center" valign="middle">
-            <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorOPEX&bg_color=0f1115&color=c9ced6&line=d4af37&point=c9ced6&area=true&hide_border=true" alt="supply chain visibility visual" />
             <h3>Supply Chain Visibility System</h3>
             <p>Consolidated multi-source operational data in Domo (in-transit orders, remote inventory, moving orders) for better planning confidence and lower shipping error risk.</p>
             <p><b>Stack:</b> Domo, Oracle, Data Modeling</p>
@@ -82,7 +89,6 @@
       <table width="92%">
         <tr>
           <td align="center" valign="middle">
-            <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOPEX&theme=dark&background=0F1115&ring=D4AF37&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=8A93A2&stroke=2A2F3A&fire=D4AF37&hide_border=true" alt="production intelligence visual" />
             <h3>Production Intelligence Acceleration</h3>
             <p>Redesigned DHRS closure and balancing process and enabled team adoption, reducing cycle time from 30 minutes to 5 minutes.</p>
             <p><b>Stack:</b> Oracle, Power BI, Process Engineering</p>
@@ -137,46 +143,93 @@
     <td align="center">
       <table width="92%">
         <tr>
-          <th align="left">Program / Credential</th>
-          <th align="left">Institution</th>
-          <th align="left">Period</th>
-          <th align="left">Focus</th>
+          <td align="left">
+            <h3>Artificial Intelligence Engineering</h3>
+            <p><b>Institution:</b> Hybridge Education</p>
+            <p><b>Period:</b> Mar 2025 - Apr 2028</p>
+            <p><b>Focus:</b> AI systems, model foundations, applied engineering</p>
+          </td>
         </tr>
+      </table>
+      <br/>
+      <table width="92%">
         <tr>
-          <td>Artificial Intelligence Engineering</td>
-          <td>Hybridge Education</td>
-          <td>Mar 2025 - Apr 2028</td>
-          <td>AI systems, model foundations, applied engineering</td>
+          <td align="left">
+            <h3>Big Data, AI and Machine Learning</h3>
+            <p><b>Institution:</b> KeepCoding</p>
+            <p><b>Period:</b> May 2024 - Apr 2025</p>
+            <p><b>Focus:</b> Data pipelines, ML workflows, analytics strategy</p>
+          </td>
         </tr>
+      </table>
+      <br/>
+      <table width="92%">
         <tr>
-          <td>Big Data, AI and Machine Learning</td>
-          <td>KeepCoding</td>
-          <td>May 2024 - Apr 2025</td>
-          <td>Data pipelines, ML workflows, analytics strategy</td>
+          <td align="left">
+            <h3>IBM Z Day 2025 - AI and Data</h3>
+            <p><b>Institution:</b> IBM</p>
+            <p><b>Period:</b> 2025</p>
+            <p><b>Focus:</b> Enterprise AI and data ecosystems</p>
+          </td>
         </tr>
+      </table>
+      <br/>
+      <table width="92%">
         <tr>
-          <td>IBM Z Day 2025 - AI and Data</td>
-          <td>IBM</td>
-          <td>2025</td>
-          <td>Enterprise AI and data ecosystems</td>
+          <td align="left">
+            <h3>Introduction to AI</h3>
+            <p><b>Institution:</b> Professional Certificate</p>
+            <p><b>Period:</b> Completed</p>
+            <p><b>Focus:</b> Core AI concepts and practical applications</p>
+          </td>
         </tr>
+      </table>
+      <br/>
+      <table width="92%">
         <tr>
-          <td>Introduction to AI</td>
-          <td>Professional Certificate</td>
-          <td>Completed</td>
-          <td>Core AI concepts and practical applications</td>
+          <td align="left">
+            <h3>Master's in Artificial Intelligence</h3>
+            <p><b>Institution:</b> Advanced Program</p>
+            <p><b>Period:</b> Completed</p>
+            <p><b>Focus:</b> Advanced AI methodology and deployment</p>
+          </td>
         </tr>
+      </table>
+      <br/>
+      <table width="92%">
         <tr>
-          <td>Master's in Artificial Intelligence</td>
-          <td>Advanced Program</td>
-          <td>Completed</td>
-          <td>Advanced AI methodology and deployment</td>
+          <td align="left">
+            <h3>Master's in Data Science and Artificial Intelligence</h3>
+            <p><b>Institution:</b> Advanced Program</p>
+            <p><b>Period:</b> Completed</p>
+            <p><b>Focus:</b> Data science for decision systems</p>
+          </td>
         </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table><tr><td height="28"></td></tr></table>
+
+## GitHub Activity
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <table width="92%">
         <tr>
-          <td>Master's in Data Science and Artificial Intelligence</td>
-          <td>Advanced Program</td>
-          <td>Completed</td>
-          <td>Data science for decision systems</td>
+          <td align="center">
+            <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorOPEX&bg_color=0f1115&color=c9ced6&line=d4af37&point=c9ced6&area=true&hide_border=true" alt="Victor Dector contribution graph" />
+          </td>
+        </tr>
+      </table>
+      <br/>
+      <table width="92%">
+        <tr>
+          <td align="center">
+            <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOPEX&theme=dark&background=0F1115&ring=D4AF37&currStreakLabel=C9CED6&sideLabels=C9CED6&dates=8A93A2&stroke=2A2F3A&fire=D4AF37&hide_border=true" alt="Victor Dector streak stats" />
+          </td>
         </tr>
       </table>
     </td>
