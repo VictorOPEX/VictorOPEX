@@ -2,6 +2,10 @@
   <img width="100%" src="images/github%20-%20baner%20-%202.svg" alt="GitHub banner" />
 </p>
 
+<p align="center">
+  <img src="images/divider.gif" alt="divider" width="100%" />
+</p>
+
 <br/>
 <br/>
 
@@ -14,10 +18,6 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <img src="images/divider.gif" alt="divider" width="100%" />
-</p>
 
 <br/>
 
