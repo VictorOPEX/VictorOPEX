@@ -130,28 +130,34 @@ Link: <i>TBD</i>
   <a id="jump-articles"></a>
 
   <br/>
-<div>
-<b>OPEX</b><br/>
-<b>Operational Intelligence in Manufacturing</b><br/>
-A practical framework to convert operational friction into scalable, governed systems.<br/><br/>
-Link: <i>TBD</i>
-</div>
-
-  <br/>
-<div>
-<b>DATA</b><br/>
-<b>KPI systems that teams actually use</b><br/>
-Dashboards, governance, and adoption without the noise.<br/><br/>
-Link: <i>TBD</i>
-</div>
-
-  <br/>
-<div>
-<b>AI / CV</b><br/>
-<b>Building AI with operational constraints</b><br/>
-Where compliance, data quality, and execution matter.<br/><br/>
-Link: <i>TBD</i>
-</div>
+<table width="100%" cellpadding="14" cellspacing="0">
+  <tr>
+    <td valign="top" width="25%">
+      <img src="images/latest-articles-featured.svg" alt="seminario web visual" width="100%" /><br/><br/>
+      <sub>Seminario web</sub><br/>
+      <b>Registrese y conozca IBM FlashSystem para LATAM</b><br/><br/>
+      <a href="#"><b>&rarr;</b></a>
+    </td>
+    <td valign="top" width="25%">
+      <img src="images/latest-articles-featured.svg" alt="insights visual" width="100%" /><br/><br/>
+      <sub>Insights</sub><br/>
+      <b>5 practicas para escalar aplicaciones y eliminar silos</b><br/><br/>
+      <a href="#"><b>&rarr;</b></a>
+    </td>
+    <td valign="top" width="25%">
+      <img src="images/latest-articles-featured.svg" alt="estudio de caso visual" width="100%" /><br/><br/>
+      <sub>Estudio de caso</sub><br/>
+      <b>Como escalar integraciones API con webMethods</b><br/><br/>
+      <a href="#"><b>&rarr;</b></a>
+    </td>
+    <td valign="top" width="25%">
+      <img src="images/latest-articles-featured.svg" alt="iniciativa visual" width="100%" /><br/><br/>
+      <sub>Iniciativa</sub><br/>
+      <b>Unase al programa IBM Impact Accelerator</b><br/><br/>
+      <a href="#"><b>&rarr;</b></a>
+    </td>
+  </tr>
+</table>
 
 </details>
 
